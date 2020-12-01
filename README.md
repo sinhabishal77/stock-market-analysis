@@ -17,9 +17,13 @@
   Stocks in study:
   
   i) Bajaj Auto
+  
   ii) TVS Motor
+  
   iii) Tata Motors
+  
   iv) Maruti Suzuki
+  
   v) Hero MotoCorp
   
   Source of the stock data: Yahoo FInance
